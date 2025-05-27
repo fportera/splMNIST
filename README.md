@@ -2,7 +2,7 @@
 
 Then, to compile:
 
-> g++ -Ofast batch6.cpp -o batch
+> g++ -Ofast batch6.cpp -o batch6
 
 To execute:
 
