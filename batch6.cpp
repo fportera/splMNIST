@@ -272,7 +272,7 @@ int main(int argc, char* argv[]) {
       printf("Generating splines for class %d\n", q);
       for (int i = 0; i < d; i++) {
       if (i % 10 == 0)
-	printf("Generating splines for dimension %d\n", i);
+	printf("Generating splines for input canal %d\n", i);
 	
       vector<Point> tpoints(trs);
 
