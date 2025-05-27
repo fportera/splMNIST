@@ -6,4 +6,4 @@ Then, to compile:
 
 To execute:
 
-> .batch6
+> ./batch6
