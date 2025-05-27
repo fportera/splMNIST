@@ -1,3 +1,9 @@
-To compile:
+> unzip data.zip
 
-g++ -Ofast batch6.cpp -o batch
+Then, to compile:
+
+> g++ -Ofast batch6.cpp -o batch
+
+To execute:
+
+> .batch6
